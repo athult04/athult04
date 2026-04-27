@@ -44,9 +44,9 @@ Hi, I’m **Athul**. I love creating modern, clean, and responsive websites.
 ## 🚀 Skills & Tools
 
 <div align="center">
-
+<marquee behavior="scroll" direction="left" scrollamount="10">
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode,figma" />
-
+</marquee>
 </div>
 
 <br>

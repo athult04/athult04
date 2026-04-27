@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00C9FF&height=220&section=header&text=Hi%20I'm%20Athul%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Web%20Designer%20|%20Creative%20Coder&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,100:7F00FF&height=220&section=header&text=Hi%20I'm%20Athul%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20Web%20Designer%20|%20Creative%20Coder&descAlignY=58&descSize=18" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;I+Create+Beautiful+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Learning+GitHub+and+Modern+Web+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=FF007F&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;I+Create+Beautiful+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;Learning+GitHub+and+Modern+Web+Development" />
 
 </div>
 
@@ -130,40 +130,6 @@ A clean and responsive personal portfolio website using HTML, CSS, and JavaScrip
 <p align="center">
 <a href="https://athult04.github.io/portfolio/">
 <img src="https://img.shields.io/badge/View%20Live%20Demo-7F00FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🎨 Responsive Card Design</h3>
-
-<p align="center">
-Modern responsive card hover design using HTML and CSS.
-</p>
-
-<p align="center">
-<a href="https://github.com/athult04/landscape-responsive-card">
-<img src="https://img.shields.io/badge/View%20Project-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">👤 Personal Profile Page</h3>
-
-<p align="center">
-A simple and beautiful profile page created with frontend technologies.
-</p>
-
-<p align="center">
-<a href="https://github.com/athult04/personal-profile">
-<img src="https://img.shields.io/badge/View%20Project-E100FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
